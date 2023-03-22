@@ -1,0 +1,9 @@
+[submodule "libs/rp2040"]
+	path = libs/rp2040
+	url = https://github.com/ZigEmbeddedGroup/raspberrypi-rp2040.git
+[submodule "libs/microzig"]
+	path = libs/microzig
+	url = https://github.com/ZigEmbeddedGroup/microzig.git
+[submodule "libs/uf2"]
+	path = libs/uf2
+	url = https://github.com/ZigEmbeddedGroup/uf2.git
