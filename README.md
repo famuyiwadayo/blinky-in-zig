@@ -1,1 +1,1 @@
-# serial-ports-zig
+# Blinky
